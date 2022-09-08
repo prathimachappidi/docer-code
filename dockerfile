@@ -1,3 +1,3 @@
 FROM  tomcat
 
-COPY /target/hello.war  /usr/local/tomcat/webapps/hello.war
+COPY /target/ion.war  /usr/local/tomcat/webapps/hello.war
